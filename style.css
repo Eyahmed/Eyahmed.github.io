@@ -1,0 +1,42 @@
+body{
+font-family: sans-serif;
+}
+h1{
+  text-decoration:underline;
+}
+h1{
+  text-align: center;
+}
+h1{
+  font-family: cursive;
+}
+h1{
+  font-style: italic;
+}
+h1{
+  font-size:4em;
+}
+body{
+  font-family: FiraCode;
+}
+p{
+  font-size: 2em;
+}
+div{
+  font-size: 0.7em;
+}
+input{
+  text-align: right;
+}
+.menu-links li {
+  display: inline-block;
+  font-size: 2em;
+  margin:0 1em;
+}
+.menu-links {
+  list-style:none;
+}
+
+.nb_navigation-searchInput {
+  float:right;
+}
